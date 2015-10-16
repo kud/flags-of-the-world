@@ -1,0 +1,15 @@
+{
+  "name": "flags-of-the-world",
+  "version": "1.0.0",
+  "description": "Collection of every country's flag.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kud/flags-of-the-world.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kud/flags-of-the-world/issues"
+  },
+  "homepage": "https://github.com/kud/flags-of-the-world#readme"
+}
